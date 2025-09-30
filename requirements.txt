@@ -1,0 +1,31 @@
+# Basic and data handling
+numpy>=1.22.0
+scipy
+tqdm
+Pillow
+
+# Medical image processing
+SimpleITK>=2.2.1
+nibabel
+monai
+
+# Machine Learning and Computer Vision
+torch>=2.0.0
+torchvision
+opencv-python
+scikit-image
+
+# Jupyter environment (optional, but good for notebooks)
+jupyterlab
+ipywidgets
+ipympl
+
+# Plotting
+matplotlib
+
+# ONNX for model deployment (optional)
+onnx
+onnxruntime
+
+# COCO tools (optional, for certain evaluation metrics)
+pycocotools
