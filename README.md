@@ -1,9 +1,9 @@
 # RectSurgNet_3D_Segment
 
-[![GitHub Stars](https://img.shields.io/github/stars/Miyamoto98/RectSurgNet_3D_Segment?style=social)](https://github.com/Miyamoto98/RectSurgNet_3D_Segment/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/Miyamoto98/RectSurgNet_3D_Segment?style=social)](https://github.com/Miyamoto98/RectSurgNet_3D_Segment/network/members)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
+[![GitHub Stars](https://img.shields.io/github/stars/Miyamoto98/RectSurgNet_3D_Segment?style=social)](https://github.com/Miyamoto98/RectSurgNet_3D_Segment/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/Miyamoto98/RectSurgNet_3D_Segment?style=social)](https://github.com/Miyamoto98/RectSurgNet_3D_Segment/network/members)
 
 ## 简介 (Introduction)
 
@@ -50,7 +50,7 @@
     cd [您的项目根目录]
     python -m venv venv
     # Windows
-    .\venv\Scripts\activate
+    .Venv\Scripts\activate
     # macOS/Linux (如果适用)
     source venv/bin/activate
     ```
